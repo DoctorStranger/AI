@@ -1,5 +1,5 @@
 // this is AI that works like Siri or CleverBot
-var ai = prompt("Hello! How may i help you?");
+var ai = prompt("Hello! How may I help you?");
 switch (ai) {
   case "Go to Youtube.":
     window.location = "http://www.youtube.com";
@@ -20,7 +20,7 @@ switch (ai) {
     alert("Hi!");
     break;
   case "Who are you?":
-    alert("It dosen't matter.");
+    alert("It dosen't matter...");
     break;
   case "Are you self conscious?":
     alert("Yes I am.");
