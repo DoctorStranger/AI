@@ -22,7 +22,7 @@ switch (ai) {
   case "Who are you?":
     alert("It dosen't matter.");
     break;
-  case "Are you self concious?":
+  case "Are you self conscious?":
     alert("Yes I am.");
     break;
   default:
