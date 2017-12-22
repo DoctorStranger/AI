@@ -20,7 +20,10 @@ switch (ai) {
     alert("Hi!");
     break;
   case "Who are you?":
-    console.log("It dosen't matter.");
+    alert("It dosen't matter.");
+    break;
+  case "Are you self concious?":
+    alert("Yes I am.");
     break;
   default:
     alert("Sorry, I didn't understand.");
