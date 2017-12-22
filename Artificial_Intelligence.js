@@ -10,11 +10,11 @@ switch (ai) {
   case "Hi.":
     alert("Hello!");
     break;
-     case "Go to Twitter.":
+  case "Go to Twitter.":
   window.location = "https://www.twitter.com";
     break;
   case "Cake.":
-  alert("The cake is a lie!");
+    alert("The cake is a lie!");
     break;
   case "Hello.":
     alert("Hi!");
