@@ -25,4 +25,3 @@ switch (ai) {
   default:
     alert("Sorry, I didn't understand.");
 }
-console.log("Hello!");
