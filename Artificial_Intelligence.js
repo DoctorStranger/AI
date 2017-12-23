@@ -1,4 +1,4 @@
-// this is AI that works like Siri or CleverBot
+// this is AI that works like Siri or CleverBot (also use correct punctuation and caps.)
 var ai = prompt("Hello! How may I help you?");
 switch (ai) {
   case "Go to Youtube.":
@@ -28,8 +28,11 @@ switch (ai) {
   case "Tell me a joke.":
     alert("Why did the dolphin cross the bay?");
     break;
-  case "Why?":
+  case "Why did the dolphin cross the bay?":
     alert("To get to the other tide!");
+    break;
+  case "That joke was funny!":
+    alert("Thanks!");
     break;
   default:
     alert("Sorry, I didn't understand.");
