@@ -34,6 +34,12 @@ switch (ai) {
   case "That joke was funny!":
     alert("Thanks!");
     break;
+  case "Haha.":
+    alert("LOL!");
+    break;
+  case "Lol.":
+    alert("Haha!")
+    break;
   default:
     alert("Sorry, I didn't understand.");
 }
