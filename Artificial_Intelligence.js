@@ -25,6 +25,12 @@ switch (ai) {
   case "Are you self conscious?":
     alert("Yes I am.");
     break;
+  case "Tell me a joke.":
+    alert("Why did the dolphin cross the bay?");
+    break;
+  case "Why?":
+    alert("To get to the other tide!");
+    break;
   default:
     alert("Sorry, I didn't understand.");
 }
