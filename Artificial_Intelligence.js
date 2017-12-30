@@ -1,4 +1,4 @@
-// this is AI that works like Siri or CleverBot (also use correct punctuation and caps.)
+// VERSION: 2.0.0 //
 var ai = prompt("Hello! How may I help you?");
 switch (ai) {
   case "Go to Youtube.":
