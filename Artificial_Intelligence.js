@@ -1,4 +1,3 @@
-// VERSION: 2.0.0 //
 var ai = prompt("Hello! How may I help you?");
 switch (ai) {
   case "Go to Youtube.":
