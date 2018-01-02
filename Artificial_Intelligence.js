@@ -30,14 +30,23 @@ switch (ai) {
   case "Why did the dolphin cross the bay?":
     alert("To get to the other tide!");
     break;
-  case "That joke was funny!":
+  case "That joke was funny.":
     alert("Thanks!");
     break;
   case "Haha.":
     alert("LOL!");
     break;
   case "Lol.":
-    alert("Haha!")
+    alert("Haha!");
+    break;
+  case "Me too.":
+    alert("I thought so!");
+    break;
+  case "Sorry.":
+    alert("Its ok.")
+    break;
+  case "Yeet":
+    alert("YEEEET!");
     break;
   default:
     alert("Sorry, I didn't understand.");
