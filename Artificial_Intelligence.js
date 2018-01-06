@@ -36,6 +36,9 @@ switch (ai) {
   case "Haha.":
     alert("LOL!");
     break;
+  case "Time.":
+    console.log(Date());
+    break;
   case "Lol.":
     alert("Haha!");
     break;
@@ -47,6 +50,9 @@ switch (ai) {
     break;
   case "Yeet":
     alert("YEEEET!");
+    break;
+  case "How old are you?":
+    alert("Older than you!");
     break;
   default:
     alert("Sorry, I didn't understand.");
