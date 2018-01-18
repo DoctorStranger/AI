@@ -48,7 +48,7 @@ switch (ai) {
   case "Sorry.":
     alert("Its ok.")
     break;
-  case "Yeet":
+  case "Yeet.":
     alert("YEEEET!");
     break;
   case "How old are you?":
