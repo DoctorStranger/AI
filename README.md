@@ -1,2 +1,2 @@
 # AI
-Artificial Intelligence made proudly by JavaScript.
+Artificial Intelligence made proudly by Losum using Javascript.
