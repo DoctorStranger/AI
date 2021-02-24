@@ -1,2 +1,2 @@
 # AI
-Artificial Intelligence made proudly by Losum using Javascript.
+Scuffed "AI", I was a kid when I made this dont judge me.
